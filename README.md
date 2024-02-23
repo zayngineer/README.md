@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Zayn</h1>
 <h3 align="center">An undergraduate software engineer dedicated to mastering programming basics and problem-solving. Currently, proficient in C++, with a budding understanding of HTML and CSS. Eager to learn and contribute to the evolving tech landscape.</h3>
 
-<p align="center">🌱 I’m currently practicing **basic problem solving in c++**</p>
+<p align="center">🌱 I’m currently practicing basic problem solving in c++</p>
 
-<p align="center">📫 How to reach me **mez4yn@gmail.com**</p>
+<p align="center">📫 How to reach me mez4yn@gmail.com</p>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/zayngineer" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>

@@ -12,7 +12,7 @@
   <a href="mailto:mez4yn@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me :</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/zayngineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="zayngineer" height="30" width="40" /></a>

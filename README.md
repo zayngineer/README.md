@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zayn</h1>
 <h3 align="center">An undergraduate software engineer dedicated to mastering programming basics and problem-solving. Currently, pro cient in C++, with a budding understanding of HTML and CSS. Eager to learn and contribute to the evolving tech landscape.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zayngineer&label=Profile%20views&color=0e75b6&style=flat" alt="zayngineer" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zayngineer&theme=" alt="zayngineer" /></a> </p>
-
 - 🌱 I’m currently practicing **basic problem solving in c++**
 
 - 📫 How to reach me **mez4yn@gmail.com**
